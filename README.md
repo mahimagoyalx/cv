@@ -1,3 +1,4 @@
-### cv
+### cv-html
+
 This is a basic html personal site. <br>
-https://mahimagoyalx.github.io/cv/
+https://mahimagoyalx.github.io/cv-html/
